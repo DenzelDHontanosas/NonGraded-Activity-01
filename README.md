@@ -1,1 +1,3 @@
-# NonGraded-Activity-01
+ - This is a NON-GRADED Activity
+ - The topics covered in this activity are Basic HTML .
+ - https://github.com/DenzelDHontanosas/NonGraded-Activity-01/
